@@ -1,0 +1,5 @@
+﻿  clientImf.cpp
+  The contents of <format> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
+D:\C++ Code\ltmBai_1\ConsoleApplication1\clientImf.cpp(50): warning C4172: returning address of local variable or temporary: buffer
+  ConsoleApplication1.vcxproj -> D:\C++ Code\ltmBai_1\x64\Debug\clientImf.exe
